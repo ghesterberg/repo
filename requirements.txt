@@ -1,1 +1,6 @@
 matplotlib
+plotly.graph_objs
+streamlit
+pydeck
+pandas
+os
