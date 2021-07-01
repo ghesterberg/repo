@@ -2,5 +2,4 @@ matplotlib
 streamlit
 pydeck
 pandas
-os
 plotly
